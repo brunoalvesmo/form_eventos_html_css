@@ -1,2 +1,11 @@
-# form_eventos_html_css
-Formulário de cadastro de eventos desenvolvido para aula de HTML e CSS na disciplina de Tecnologias para Internet do curso de Sistemas de Informação da Unibalsas
+## 💻 Formulário de Eventos
+> Esse projeto simples consiste na criação de um formulário que simula o preenchimento de dados para um evento. 📆
+
+![preview](./preview.png)
+
+## 🚀 Tecnologias
+
+<div style="display: inline_block">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div><br/>
